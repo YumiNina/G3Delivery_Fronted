@@ -24,3 +24,14 @@ El sistema realizará la gestión de facturas con un control de inventario, el c
 Los pagos, no se podrán realizar en línea sino, al momento de hacer la entrega.
 
 
+HERRAMIENTAS
+
+Administración de Proyectos :  Jira
+Lenguaje de Programación : Javascript
+Framework Backend: Spring
+Framework Fronted: Angular , CSS
+Base de Datos: MySQL
+Repositorio de Código: Github
+
+
+

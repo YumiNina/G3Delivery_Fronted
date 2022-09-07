@@ -30,10 +30,15 @@ Los pagos, no se podrán realizar en línea sino, al momento de hacer la entrega
 *HERRAMIENTAS
 
 -Administración de Proyectos :  Jira
+
 -Lenguaje de Programación : Javascript
+
 -Framework Backend: Spring
+
 -Framework Fronted: Angular , CSS
+
 -Base de Datos: MySQL
+
 -Repositorio de Código: Github
 
 

@@ -5,7 +5,9 @@ DELIVERY
 
 
 *Integrantes*
+
 Mayumi Nina Urquiola
+
 Aracely Condori Tipola
 
 

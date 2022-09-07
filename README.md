@@ -1,9 +1,10 @@
-Delivery
-“AmAra ”
+DELIVERY 
+
+**“AmAra”**
 
 
 
-Integrantes
+*Integrantes*
 Mayumi Nina Urquiola
 Aracely Condori Tipola
 
